@@ -14,6 +14,6 @@ One pixel is indexed according to its `IDX` from `JIMP`, it contains the pixel's
 Mainly used to counteract image imports in some platforms, by using pixel data to recreate an image individually.
 
 ## Packages Used
-[JIMP (JavaScript Image Manipulation Program)](https://github.com/oliver-moran/jimp)
-[fs-extra](https://github.com/jprichardson/node-fs-extra)
+[JIMP (JavaScript Image Manipulation Program)](https://github.com/oliver-moran/jimp)\n
+[fs-extra](https://github.com/jprichardson/node-fs-extra)\n
 [image-type](https://github.com/sindresorhus/image-type)
